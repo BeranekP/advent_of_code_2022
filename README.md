@@ -11,3 +11,4 @@ Solutions in Rust:
 - Day 5: [Supply Stacks](./day_5/src)
 - Day 6: [Tuning Trouble](./day_6/src/)
 - Day 7: [No Space Left On Device](./day_7/src/)
+- Day 8: [Treetop Tree House](./day_8/src/)
