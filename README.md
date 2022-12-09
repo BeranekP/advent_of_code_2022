@@ -12,3 +12,4 @@ Solutions in Rust:
 - Day 6: [Tuning Trouble](./day_6/src/)
 - Day 7: [No Space Left On Device](./day_7/src/)
 - Day 8: [Treetop Tree House](./day_8/src/)
+- Day 9: [Rope Bridge](./day_9/src/)
