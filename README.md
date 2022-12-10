@@ -13,3 +13,4 @@ Solutions in Rust:
 - Day 7: [No Space Left On Device](./day_7/src/) | [>](https://adventofcode.com/2022/day/7)
 - Day 8: [Treetop Tree House](./day_8/src/) | [>](https://adventofcode.com/2022/day/8)
 - Day 9: [Rope Bridge](./day_9/src/) | [>](https://adventofcode.com/2022/day/9)
+- Day 10: [Cathode-Ray Tube](./day_10/src/) | [>](https://adventofcode.com/2022/day/10)
